@@ -1,13 +1,15 @@
 /*
+ * MIT Licens
  *
- * Uppgiften gick ut pa att skriva ett program som fungerar
- * som en enkel kommandotolk (shell) för UNIX. 
- * tanken är att  Programmet skall tillåta användaren att mata in 
- * kommandon till dess han/hon väljer att avsluta kommandotolken med kommandot “exit”. 
- *
- * Created by Luthon Hagvinprice on 12/15/14.
- *kone@kth.se
- *Student på ICT KTH Kista Information an kommunikation technology
+ * The task was to write a program that works  
+ * As a simple command interpreter (shell) for UNIX.  
+ * The idea is that the program should allow the user to enter  
+ * Commands until he / she chooses to exit the command prompt with the command "exit".  
+ *  
+ *Copyright Created by Luthon Hagvinprice on 15/12/14.  
+ * kone@kth.se 
+ * 
+ * Student of ICT KTH Kista information than communication technology
  */
 
 #include <stdio.h>
